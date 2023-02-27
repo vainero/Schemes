@@ -58,46 +58,6 @@ body[data-jp-theme-light="true"] .lm-Widget.p-Widget.jp-CodeMirrorEditor.jp-Edit
     border-radius: 0;
 }
 
-/* /1* --- for rendering submitted notebook --- *1/ */
-/* div.text_cell_render h1 { */
-/*     font-family: "Trebuchet MS", sans-serif; */
-/*     font-size: 2em !important; */
-/*     letter-spacing: 1px; */
-/*     border-bottom: 3px solid var(--header1_color); */
-/*     /1* text-transform: uppercase; *1/ */
-/*     color: var(--header1_color); */
-/*     padding: 0px; */
-/*     margin-top: 5px; */
-/* } */
-
-/* div.text_cell_render h2 { */
-/*     font-family: "Trebuchet MS"; */
-/*     font-size: 1.7em !important; */
-/*     color: var(--header2_color); */
-/* } */
-
-/* div.text_cell_render h3 { */
-/*     font-family: "Trebuchet MS"; */
-/*     font-size: 1.4em !important; */
-/*     color: var(--header3_color); */
-/* } */
-
-/* .highlight .nn{ */
-/*     color: black; */
-/* } */
-
-/* .n{ */
-/*     color: black */
-/* } */
-
-/* .o{ */
-/*     color: black */
-/* } */
-
-/* .p{ */
-/*     color: black */
-/* } */
-
 .highlight .s1 {
     color: var(--string_color);
 }
@@ -183,10 +143,6 @@ div.output_subarea.output_text{
     padding: 16px;
     width: 1000px;
 }
-
-/* h1.header { */
-/*     color: white !important; */
-/* } */
 
 .insights {
     line-height: 1.7em;
