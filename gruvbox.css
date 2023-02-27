@@ -15,48 +15,6 @@
     --operator_color: #a221f2;
 }
 
-/* h1, .h1 { */
-/*     font-family: "Trebuchet MS", sans-serif; */
-/*     font-size: 2em !important; */
-/*     letter-spacing: 1px; */
-/*     /1* border-bottom: 3px solid #497564; *1/ */
-/*     /1* text-transform: uppercase; *1/ */
-/*     color: var(--header1_color); */
-/*     border-bottom: 3px solid var(--header1_color); */
-/* } */
-
-/* h1.title{ */
-/*     padding:5px */
-/* } */
-
-/* div.title { */
-/*     text-align: center; */
-/*     background-color: #d3e6d23d; */
-/*     height:3em; */
-/*     border-radius: 10px; */
-/*     box-shadow: 3px 3px #536f533d; */
-/*     margin-bottom: 8px; */
-/* } */
-
-/* h2, .h2 { */
-/*     font-family: "Trebuchet MS"; */
-/*     font-size: 1.7em !important; */
-/*     color: var(--header2_color); */
-/* } */
-
-/* h3, .h3 { */
-/*     font-family: "Trebuchet MS"; */
-/*     font-size: 1.4em !important; */
-/*     color: var(--header3_color); */
-/* } */
-
-/* .jp-mod-active .jp-Collapser-child{ */
-/*     background-color: #d79921; */
-/* } */
-/* .output { */
-/*     flex-direction: row; */
-/* } */
-
 .cm-s-jupyter span.cm-number{
     color: var(--header2_color);
 }
